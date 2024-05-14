@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Dixit</h1>
-<h3 align="center">Computer Vision Researcher and Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning Researcher | Opensource Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrashantDixit0" alt="seutao" /> </p>
 
