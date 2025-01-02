@@ -17,4 +17,4 @@
 
 [](https://pixel.cyclic.app/pixel.gif?page=github-user)
 
-📫 How to reach me: Twitter @Prashant_Dixit0
+📫 How to reach me: Twitter [@Prashant_Dixit0](https://x.com/Prashant_Dixit0)
